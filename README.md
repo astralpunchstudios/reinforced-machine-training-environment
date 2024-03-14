@@ -4,6 +4,8 @@
 
 ![Main_Small_Mech_v1.png](images%2FMain_Small_Mech_v1.png)
 
+![Sequence 16 - Transporter GIF for Steam 01_1.gif](images%2FSequence%2016%20-%20Transporter%20GIF%20for%20Steam%2001_1.gif)
+
 # Getting Started
 There are two ways to train and run the Reinforced Machine training environment.
 
@@ -131,7 +133,7 @@ mlagents-learn ./ppo/RM_PPO_EnergyGun.yaml --env="./builds/RM_Game_Training_Only
 
 This sets the `time-scale` to `1`. Remove it to make the AI Agent train faster.
 
-![Steam_Image_Training_Environment_01.png](images%2FSteam_Image_Training_Environment_01.png)
+![Sequence 17 - Training Environment GIF for Steam_1.gif](images%2FSequence%2017%20-%20Training%20Environment%20GIF%20for%20Steam_1.gif)
 
 # Weapon AI Agents
 
