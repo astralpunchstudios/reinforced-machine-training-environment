@@ -1,6 +1,6 @@
 # Reinforced Machine Training Environment
 
-🚧 This document is a Work in Progress 🚧
+# 🚧 This document is a Work in Progress 🚧
 
 ![Main_Small_Mech_v1.png](images%2FMain_Small_Mech_v1.png)
 
