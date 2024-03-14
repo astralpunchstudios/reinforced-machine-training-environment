@@ -131,6 +131,8 @@ mlagents-learn ./ppo/RM_PPO_EnergyGun.yaml --env="./builds/RM_Game_Training_Only
 
 This sets the `time-scale` to `1`. Remove it to make the AI Agent train faster.
 
+![Steam_Image_Training_Environment_01.png](images%2FSteam_Image_Training_Environment_01.png)
+
 # Weapon AI Agents
 
 Each weapon has its own implementation of the AI Agent. This means it has its own **action space** and some weapons have
