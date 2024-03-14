@@ -1,0 +1,37 @@
+behaviors:
+  EnergyGun:
+    trainer_type: ppo
+    hyperparameters:
+      batch_size: 128
+      buffer_size: 2048
+      learning_rate: 0.0003
+      beta: 0.01
+      epsilon: 0.2
+      lambd: 0.95
+      num_epoch: 3
+      learning_rate_schedule: linear
+    network_settings:
+      normalize: false
+      hidden_units: 256
+      num_layers: 2
+      vis_encode_type: simple
+    reward_signals:
+      extrinsic:
+        gamma: 0.99
+        strength: 1.0
+    keep_checkpoints: 40
+    max_steps: 10000000
+    time_horizon: 64
+    summary_freq: 10000
+environment_parameters:
+  weapon_id: 0
+  damage_single_enemy_min: 100
+  damage_single_enemy_max: 200
+  damage_single_enemy_reward_multiplier: 0.1
+  damage_multiple_enemies_min: 150
+  damage_multiple_enemies_max: 200
+  damage_multiple_enemies_reward_multiplier: 0.1
+  kill_chain_level_min: 3
+  kill_chain_level_max: 10
+  kill_chain_level_reward_multiplier: 0.001
+  kill_chain_break_penalty: -5

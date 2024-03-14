@@ -12,7 +12,7 @@ latest Reinforced Machine Training Linux build.
 2. Train it locally. Here you need to setup Unity ML Agents `Release 21` and install
 Pytorch along with all its dependencies.
 
-#  Training locally
+#  Setting up Local Training Dependencies
 
 ## Install miniconda and Python
 Install `miniconda` by following the steps in https://docs.anaconda.com/free/miniconda/
@@ -57,12 +57,14 @@ setup.py:63: RuntimeWarning: NumPy 1.21.2 may not yet support Python 3.10.”
 ```
 
 This is already in develop branch. Check later for update on a new release branch.
+
 See https://github.com/Unity-Technologies/ml-agents/issues/6008
 
 As a workaround we need to change `"numpy==1.21.2"` to `"numpy==1.23.3"` in the file 
 `/ml-agents-envs/setup.py`
 
 To install the `mlagents` Python package, activate your virtual environment and run from the command line.
+
 https://unity-technologies.github.io/ml-agents/Installation/#installing-mlagents
 
 ```
@@ -111,10 +113,21 @@ the created conda environment in the earlier steps before running the next comma
 Run `conda env list` and the selected environment must be `ml-agents-rel-21_python-3.10`
 
 Run this command to install `Pytorch v1.13.1`.
+
 ```
 pip3 install torch~=1.13.1 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
+# Reinforced Machine Training Environment
+TODO: Create builds for Windows and Linux
+
+Run this command to train with the Reinforced Machine executable build.
+
+```
+mlagents-learn ./ppo/RM_PPO_EnergyGun.yaml --env="./builds/RM_Game_Training_Only" --run-id=RM_PPO_EnergyGun_01 --time-scale=1
+```
+
+This sets the `time-scale` to `1`. Remove it to make the AI Agent train faster.
 
 
 
