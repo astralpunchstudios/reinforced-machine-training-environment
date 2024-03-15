@@ -179,8 +179,9 @@ community trained models shared publicly, or their own custom trained models.
 Each weapon has its own implementation of the AI Agent. This means it has its own **action space** and some weapons have
 custom **observations** added to feed to the neural network.
 
+<div align="center">
 | Weapon                                                           | Behavior Name | Weapon ID | Training Document                                          |
 |------------------------------------------------------------------|---------------|-----------|------------------------------------------------------------|
 | <img src="images/weapons/Weapon01_EnergyGun.png" width="200px"/> | EnergyGun     | 0         | [Energy Gun Training Document](docs/Weapon01_EnergyGun.md) |
-
+</div>
 
