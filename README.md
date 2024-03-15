@@ -166,9 +166,7 @@ TODO: Pass env variable with full file path of the ONNX model
 
 ## Using the Trained AI Agent Model in the Actual Game
 
-On game release of Reinforced Machine, the trained AI Agent model can be used to customize the weapon's behavior.
-The game will allow players to select a weapon, then select their preferred AI Agent model from a list of pre-trained models,
-community trained models shared publicly, or their own custom trained models.
+Your trained AI Agent model can be used in the game. More details to follow near the release of the game.
 
 <p align="center">
   <img src="images/Sequence 16 - Transporter GIF for Steam 01_1.gif" width="800px"/>
