@@ -168,7 +168,7 @@ TODO: Pass env variable with full file path of the ONNX model
 
 On game release of Reinforced Machine, the trained AI Agent model can be used to customize the weapon's behavior.
 The game will allow players to select a weapon, then select their preferred AI Agent model from a list of pre-trained models,
-community trained models shared publicy, or their own custom trained models.
+community trained models shared publicly, or their own custom trained models.
 
 <p align="center">
   <img src="images/Sequence 16 - Transporter GIF for Steam 01_1.gif" width="800px"/>
@@ -179,6 +179,8 @@ community trained models shared publicy, or their own custom trained models.
 Each weapon has its own implementation of the AI Agent. This means it has its own **action space** and some weapons have
 custom **observations** added to feed to the neural network.
 
-TODO: Add detailed documentation for Energy Gun
+| Weapon                                                   | Behavior Name | Weapon ID | Training Document                                          |
+|----------------------------------------------------------|---------------|-----------|------------------------------------------------------------|
+| <img src="images/Weapon01_EnergyGun.png" width="200px"/> | EnergyGun     | 0         | [Energy Gun Training Document](docs/Weapon01_EnergyGun.md) |
 
 
