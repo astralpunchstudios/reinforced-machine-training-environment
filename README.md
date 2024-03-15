@@ -3,7 +3,7 @@
 Reinforced Machine is a twin-stick shooter action game. Choose your favorite mech, each with their own unique skills. Unleash powerful attacks with the help of your AI-assisted weapons to aid you in your battle against legions of cyborg creatures.
 
 <p align="center">
-  <img src="images/Main_Small_Mech_v1.png" width="500px"/>
+  <img src="images/Main_Small_Mech_v1.png" width="550px"/>
 </p>
 
 <p align="center">
