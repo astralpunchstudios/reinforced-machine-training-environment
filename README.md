@@ -2,9 +2,9 @@
 
 # 🚧 This document is a Work in Progress 🚧
 
-![Main_Small_Mech_v1.png](images%2FMain_Small_Mech_v1.png)
-
-![Sequence 16 - Transporter GIF for Steam 01_1.gif](images%2FSequence%2016%20-%20Transporter%20GIF%20for%20Steam%2001_1.gif)
+<p align="center">
+  <img src="images/Main_Small_Mech_v1.png" width="800px"/>
+</p>
 
 # Getting Started
 There are two ways to train and run the Reinforced Machine training environment.
@@ -123,7 +123,11 @@ pip3 install torch~=1.13.1 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
 # Reinforced Machine Training Environment
+
+## Download the training environment
 TODO: Create builds for Windows and Linux
+
+## Start Training using Unity ML-Agents
 
 Run this command to train with the Reinforced Machine executable build.
 
@@ -133,7 +137,21 @@ mlagents-learn ./ppo/RM_PPO_EnergyGun.yaml --env="./builds/RM_Game_Training_Only
 
 This sets the `time-scale` to `1`. Remove it to make the AI Agent train faster.
 
+<p align="center">
+  <img src="images/Sequence 16 - Transporter GIF for Steam 01_1.gif" width="800px"/>
+</p>
 ![Sequence 17 - Training Environment GIF for Steam_1.gif](images%2FSequence%2017%20-%20Training%20Environment%20GIF%20for%20Steam_1.gif)
+
+
+## Run inference mode
+
+After training the AI Agent, use the resulting ONNX model to run the build in Inference Mode.
+
+TODO: Pass env variable with full file path of the ONNX model
+
+<p align="center">
+  <img src="images/Sequence 16 - Transporter GIF for Steam 01_1.gif" width="800px"/>
+</p>
 
 # Weapon AI Agents
 
