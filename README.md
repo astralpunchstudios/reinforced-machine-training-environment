@@ -181,19 +181,19 @@ custom **observations** added to feed to the neural network.
 
 <div align="center">
   
-| Weapon                                                                | Behavior Name  | Weapon ID | Training Document                                          |
-|-----------------------------------------------------------------------|----------------|-----------|------------------------------------------------------------|
-| <img src="images/weapons/Weapon01_EnergyGun.png" width="200px"/>      | EnergyGun      | 0         | [Energy Gun Training Document](docs/Weapon01_EnergyGun.md) |
-| <img src="images/weapons/Weapon02_RocketLauncher.png" width="200px"/> | RocketLauncher | 1         |                                                            |
-| <img src="images/weapons/Weapon03_LaserGun.png" width="200px"/>       | LaserGun       | 2         |                                                            |
-| <img src="images/weapons/Weapon04_PortalGun.png" width="200px"/>      | PortalGun      | 3         |                                                            |
-| <img src="images/weapons/Weapon05_RailGun.png" width="200px"/>        | RailGun        | 4         |                                                            |
-| <img src="images/weapons/Weapon06_AcidGun.png" width="200px"/>        | AcidGun        | 5         |                                                            |
-| <img src="images/weapons/Weapon07_SniperRifle.png" width="200px"/>    | SniperRifle    | 6         |                                                            |
-| <img src="images/weapons/Weapon08_AssaultRifle.png" width="200px"/>   | AssaultRifle   | 7         |                                                            |
-| <img src="images/weapons/Weapon09_ElectricGun.png" width="200px"/>    | ElectricGun    | 8         |                                                            |
-| <img src="images/weapons/Weapon10_MachineGun.png" width="200px"/>     | MachineGun     | 9         |                                                            |
-| <img src="images/weapons/Weapon11_ShotGun.png" width="200px"/>        | ShotGun        | 10        |                                                            |
+| Weapon                                                                | Behavior Name  | Weapon ID | Training Document                                                    |
+|-----------------------------------------------------------------------|----------------|-----------|----------------------------------------------------------------------|
+| <img src="images/weapons/Weapon01_EnergyGun.png" width="200px"/>      | EnergyGun      | 0         | [Energy Gun Training Document](docs/Weapon01_EnergyGun.md)           |
+| <img src="images/weapons/Weapon02_RocketLauncher.png" width="200px"/> | RocketLauncher | 1         | [Rocket Launcher Training Document](docs/Weapon02_RocketLauncher.md) |
+| <img src="images/weapons/Weapon03_LaserGun.png" width="200px"/>       | LaserGun       | 2         | [Laser Gun Training Document](docs/Weapon03_LaserGun.md)             |
+| <img src="images/weapons/Weapon04_PortalGun.png" width="200px"/>      | PortalGun      | 3         | [Portal Gun Training Document](docs/Weapon04_PortalGun.md)           |
+| <img src="images/weapons/Weapon05_RailGun.png" width="200px"/>        | RailGun        | 4         | [Rail Gun Training Document](docs/Weapon05_RailGun.md)               |
+| <img src="images/weapons/Weapon06_AcidGun.png" width="200px"/>        | AcidGun        | 5         | [Acid Gun Training Document](docs/Weapon06_AcidGun.md)               |
+| <img src="images/weapons/Weapon07_SniperRifle.png" width="200px"/>    | SniperRifle    | 6         | [SniperRifle Training Document](docs/Weapon07_SniperRifle.md)        |
+| <img src="images/weapons/Weapon08_AssaultRifle.png" width="200px"/>   | AssaultRifle   | 7         | [AssaultRifle Training Document](docs/Weapon08_AssaultRifle.md)      |
+| <img src="images/weapons/Weapon09_ElectricGun.png" width="200px"/>    | ElectricGun    | 8         | [Electric Gun Training Document](docs/Weapon09_ElectricGun.md)       |
+| <img src="images/weapons/Weapon10_MachineGun.png" width="200px"/>     | MachineGun     | 9         | [Machine Gun Training Document](docs/Weapon10_MachineGun.md)         |
+| <img src="images/weapons/Weapon11_ShotGun.png" width="200px"/>        | ShotGun        | 10        | [Shot Gun Training Document](docs/Weapon11_ShotGun.md)               |
 
 </div>
 
