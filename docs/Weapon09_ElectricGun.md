@@ -4,7 +4,7 @@
 
 | Weapon                                                                | Behavior Name  | Weapon ID |
 |-----------------------------------------------------------------------|----------------|-----------|
-| <img src="images/weapons/Weapon09_ElectricGun.png" width="200px"/>    | ElectricGun    | 8         |
+| <img src="../images/weapons/Weapon09_ElectricGun.png" width="200px"/>    | ElectricGun    | 8         |
 
 </div>
 

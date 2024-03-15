@@ -4,7 +4,7 @@
 
 | Weapon                                                                | Behavior Name  | Weapon ID |
 |-----------------------------------------------------------------------|----------------|-----------|
-| <img src="images/weapons/Weapon04_PortalGun.png" width="200px"/>      | PortalGun      | 3         |
+| <img src="../images/weapons/Weapon04_PortalGun.png" width="200px"/>      | PortalGun      | 3         |
 
 </div>
 

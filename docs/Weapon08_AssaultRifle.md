@@ -4,7 +4,7 @@
 
 | Weapon                                                                | Behavior Name  | Weapon ID |
 |-----------------------------------------------------------------------|----------------|-----------|
-| <img src="images/weapons/Weapon08_AssaultRifle.png" width="200px"/>   | AssaultRifle   | 7         |
+| <img src="../images/weapons/Weapon08_AssaultRifle.png" width="200px"/>   | AssaultRifle   | 7         |
 
 </div>
 

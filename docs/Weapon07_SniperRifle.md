@@ -4,7 +4,7 @@
 
 | Weapon                                                                | Behavior Name  | Weapon ID |
 |-----------------------------------------------------------------------|----------------|-----------|
-| <img src="images/weapons/Weapon07_SniperRifle.png" width="200px"/>    | SniperRifle    | 6         |
+| <img src="../images/weapons/Weapon07_SniperRifle.png" width="200px"/>    | SniperRifle    | 6         |
 
 </div>
 
