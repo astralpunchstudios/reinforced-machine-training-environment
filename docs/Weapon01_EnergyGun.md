@@ -1,8 +1,12 @@
 # Energy Gun
 
-| Weapon ID     | 01        |
-|---------------|-----------|
-| Behavior Name | EnergyGun |
+<div align="center">
+
+| Weapon                                                                | Behavior Name  | Weapon ID |
+|-----------------------------------------------------------------------|----------------|-----------|
+| <img src="images/weapons/Weapon01_EnergyGun.png" width="200px"/>      | EnergyGun      | 0         |
+
+</div>
 
 # Observation
 
