@@ -5,7 +5,7 @@ Choose your favorite mech, each with their own unique skills. Unleash powerful a
 of your AI-assisted weapons to aid you in your battle against legions of cyborg creatures.
 
 The trained AI Agent model is used to customize the weapon's behavior in the game.
-Players selects a weapon, then choose their preferred AI Agent model from a list of pre-trained models,
+Players select a weapon, then choose their preferred AI Agent model from a list of pre-trained models,
 community trained models shared publicy, or their own custom trained models.
 
 <p align="center">
