@@ -3,6 +3,10 @@
 ## 🚧 This document is a Work in Progress 🚧
 
 <p align="center">
+  <img src="images/Library_Capsule.png" width="800px"/>
+</p>
+
+<p align="center">
   <img src="images/Main_Small_Mech_v1.png" width="800px"/>
 </p>
 
@@ -150,6 +154,7 @@ TODO: Pass env variable with full file path of the ONNX model
 <p align="center">
   <img src="images/Sequence 16 - Transporter GIF for Steam 01_1.gif" width="800px"/>
 </p>
+
 
 # Weapon AI Agents
 
