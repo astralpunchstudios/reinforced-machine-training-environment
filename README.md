@@ -1,13 +1,15 @@
-# Reinforced Machine Training Environment
+# Reinforced Machine Training Environment (🚧WIP🚧)
 
-## 🚧 This document is a Work in Progress 🚧
+Reinforced Machine is a twin-stick shooter action game. Choose your favorite mech, each with their own unique skills. Unleash powerful attacks with the help of your AI-assisted weapons to aid you in your battle against legions of cyborg creatures.
 
 <p align="center">
-  <img src="images/Library_Capsule.png" width="800px"/>
+  <img src="images/Main_Small_Mech_v1.png" width="500px"/>
 </p>
 
 <p align="center">
-  <img src="images/Main_Small_Mech_v1.png" width="800px"/>
+ <a href="https://store.steampowered.com/app/2440860/Reinforced_Machine/">
+  <img src="images/steam_wishlist.png" width="320px"/>
+ </a>
 </p>
 
 # Getting Started
