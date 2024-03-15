@@ -9,7 +9,7 @@ of your AI-assisted weapons to aid you in your battle against legions of cyborg 
 </p>
 
 <p align="center">
- <a href="https://store.steampowered.com/app/2440860/Reinforced_Machine/">
+ <a href="https://store.steampowered.com/app/2440860/Reinforced_Machine/" target="_blank">
   <img src="images/steam_wishlist.png" width="320px"/>
  </a>
 </p>
@@ -157,10 +157,15 @@ After training the AI Agent, use the resulting ONNX model to run the build in In
 
 TODO: Pass env variable with full file path of the ONNX model
 
+## Using the Trained AI Agent Model in the Actual Game
+
+On game release of Reinforced Machine, the trained AI Agent model can be used to customize the weapon's behavior.
+The game will allow players to select a weapon, then select their preferred AI Agent model from a list of pre-trained models,
+community trained models shared publicy, or their own custom trained models.
+
 <p align="center">
   <img src="images/Sequence 16 - Transporter GIF for Steam 01_1.gif" width="800px"/>
 </p>
-
 
 # Weapon AI Agents
 
