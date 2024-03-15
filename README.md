@@ -1,6 +1,6 @@
 # Reinforced Machine Training Environment
 
-# 🚧 This document is a Work in Progress 🚧
+## 🚧 This document is a Work in Progress 🚧
 
 <p align="center">
   <img src="images/Main_Small_Mech_v1.png" width="800px"/>
@@ -138,12 +138,10 @@ mlagents-learn ./ppo/RM_PPO_EnergyGun.yaml --env="./builds/RM_Game_Training_Only
 This sets the `time-scale` to `1`. Remove it to make the AI Agent train faster.
 
 <p align="center">
-  <img src="images/Sequence 16 - Transporter GIF for Steam 01_1.gif" width="800px"/>
+  <img src="images/Sequence 17 - Training Environment GIF for Steam_1.gif" width="800px"/>
 </p>
-![Sequence 17 - Training Environment GIF for Steam_1.gif](images%2FSequence%2017%20-%20Training%20Environment%20GIF%20for%20Steam_1.gif)
 
-
-## Run inference mode
+## Run in Inference Mode
 
 After training the AI Agent, use the resulting ONNX model to run the build in Inference Mode.
 
