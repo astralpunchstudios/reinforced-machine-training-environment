@@ -9,7 +9,7 @@ of your AI-assisted weapons to aid you in your battle against legions of cyborg 
 </p>
 
 <p align="center">
- <a href="https://store.steampowered.com/app/2440860/Reinforced_Machine/" target="_blank">
+ <a href="https://store.steampowered.com/app/2440860/Reinforced_Machine/">
   <img src="images/steam_wishlist.png" width="320px"/>
  </a>
 </p>
