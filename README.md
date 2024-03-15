@@ -100,7 +100,9 @@ Note this is a Unity package, and different from the ML-Agents learn from the pr
 
 In Unity 2019.4 or later, open the Package Manager, hit the "+" button, and select "Add package from git URL".
 
-![unity_package_manager_git_url.png](images%2Funity_package_manager_git_url.png)
+<p align="center">
+  <img src="images/unity_package_manager_git_url.png" width="550px"/>
+</p>
 
 In the dialog that appears, enter the following
 
