@@ -30,7 +30,7 @@ There are two ways to train and run the Reinforced Machine training environment.
 
 If you wish to train locally, follow the steps on how to install Unity ML-Agents in your local machine on this page.
 
-[Installing Unity MLAgents](docs/Install_Unity_MLAgents_Local)
+[Installing Unity MLAgents in Local machine](docs/Install_Unity_MLAgents_Local)
 
 The next section is a guide on how to train the AI Agent. This applies to both training environments running in
 Google colab or in your local machine.
