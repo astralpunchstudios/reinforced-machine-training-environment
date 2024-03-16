@@ -44,7 +44,7 @@ TODO: Create builds for Windows and Linux
 Run this command to train with the Reinforced Machine executable build.
 
 ```
-mlagents-learn ./ppo/RM_PPO_EnergyGun.yaml --env="./builds/RM_Game_Training_Only" --run-id=RM_PPO_EnergyGun_01 --time-scale=1
+mlagents-learn ./config/ppo/RM_PPO_EnergyGun.yaml --env="./builds/RM_Game_Training_Only" --run-id=RM_PPO_EnergyGun_01 --time-scale=1
 ```
 
 This sets the `time-scale` to `1`. Remove it to make the AI Agent train faster.
