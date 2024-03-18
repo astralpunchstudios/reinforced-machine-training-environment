@@ -101,7 +101,7 @@ You can also edit your project's `manifest.json` directly and add the following 
 Starting from this point, including the next installation steps, make sure you are using
 the created conda environment in the earlier steps before running the next command.
 
-Run `conda env list` and the selected environment must be `ml-agents-rel-21_python-3.10`
+Run `conda env list` and the selected environment must be `ml-agents-rel-21_python-3.10.12`
 
 Run this command to install `Pytorch v1.13.1`.
 
