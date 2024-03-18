@@ -13,7 +13,7 @@ conda create -n ml-agents-rel-21_python-3.10.12 python=3.10.12
 conda activate ml-agents-rel-21_python-3.10.12
 ```
 
-Install Python 3.10.x
+Upgrade PIP and verify installed versions.
 
 ```
 # Upgrade pip
